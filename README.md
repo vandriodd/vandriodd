@@ -1,12 +1,27 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/5c/fa/de/5cfade72ad177e4a612dc711603ec418.gif" />
-<h1 align="center">Hi 👋, I'm Luz Saavedra</h1>
-<h3 align="center">I have not failed. I’ve just found 10,000 ways that won’t work.</h3>
+<img align="center" src="https://orhun.dev/img/crow.png" />
 
 </div>
+  
+<h1 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/vandriodd">Luz Saavedra</a></b>
+        </samp>
+</h1>
+<br>
 
-<h3 align="center"> 📫 How to reach me: </h3>
+<p align="center">
+        <samp>
+                「 I'm a full-stack engineer student from <b>Uruguay</b> 」
+                <br>
+                「 Focused on learning and improving my tech and soft skills</b> 」
+                <br>
+                <br>
+        </samp>
+</p>
+
+<h3 align="center"> <samp>📫 How to reach me: </samp></h3>
 
 <div align="center">
 
@@ -18,7 +33,7 @@
 
 </div>
 
-<h3 align="center"> 💻 Tech & tools stack: </h3>
+<h3 align="center"> <samp>💻 Tech & tools stack:</samp> </h3>
 
 <div align="center">
 
@@ -36,7 +51,7 @@
 
 </div>
 
-<h3 align="center"> 🌱 I'm currently learning: </h3>
+<h3 align="center"> <samp>🌱 I'm currently learning:</samp> </h3>
 
 <div align="center">
 
@@ -44,7 +59,7 @@
 
 </div>
 
-<h2 align="center"> 📊 GitHub Stats: </h2>
+<h2 align="center"> <samp>📊 GitHub Stats:</samp> </h2>
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vandriodd&&show_icons=true&count_private=true&theme=noctis_minimus&hide_border=true&hide=issues,contribs&bg_color=00000000" />
