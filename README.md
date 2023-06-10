@@ -51,3 +51,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandriodd&theme=noctis_minimus&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vandriodd&theme=noctis_minimus&hide_border=true&background=00000000" />
 </p>
+
+<a href="https://github.com/vandriodd/github-readme-activity-graph">
+
+<img alt="vandriodd's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vandriodd&bg_color=00000000&color=B39C7E&line=72B7C0&point=bac2c8&hide_border=true" />
+
+</a>
