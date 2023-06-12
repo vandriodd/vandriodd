@@ -1,3 +1,4 @@
+<!-- Presentation -->
 <div align="center">
 
 <img align="center" src="https://orhun.dev/img/crow.png" />
@@ -5,23 +6,25 @@
 </div>
   
 <h1 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/vandriodd">Luz Saavedra</a></b>
-        </samp>
+<samp>&gt; Hey There!, I am
+<b><a target="_blank" href="https://github.com/vandriodd">Luz Saavedra</a></b>
+</samp>
 </h1>
+
 <br>
 
 <p align="center">
-        <samp>
-                「 I'm a full-stack engineer student from <b>Uruguay</b> 」
-                <br>
-                「 Focused on learning and improving my tech and soft skills</b> 」
-                <br>
-                <br>
-        </samp>
+<samp>
+「 I'm a full-stack engineer student from <b>Uruguay</b> 」
+<br>
+「 Focused on learning and improving my tech and soft skills</b> 」
+<br>
+<br>
+</samp>
 </p>
 
-<h3 align="center"> <samp>📫 How to reach me: </samp></h3>
+<!-- Social media -->
+<h3 align="center"> <samp> 📫 How to reach me: </samp> </h3>
 
 <div align="center">
 
@@ -33,7 +36,8 @@
 
 </div>
 
-<h3 align="center"> <samp>💻 Tech & tools stack:</samp> </h3>
+<!-- Skills -->
+<h3 align="center"> <samp> 💻 Tech & tools stack: </samp> </h3>
 
 <div align="center">
 
@@ -51,7 +55,7 @@
 
 </div>
 
-<h3 align="center"> <samp>🌱 I'm currently learning:</samp> </h3>
+<h3 align="center"> <samp> 🌱 I'm currently learning: </samp> </h3>
 
 <div align="center">
 
@@ -59,7 +63,8 @@
 
 </div>
 
-<h2 align="center"> <samp>📊 GitHub Stats:</samp> </h2>
+<!-- Stats -->
+<h2 align="center"> <samp> 📊 GitHub Stats: </samp> </h2>
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vandriodd&&show_icons=true&count_private=true&theme=noctis_minimus&hide_border=true&hide=issues,contribs&bg_color=00000000" />
