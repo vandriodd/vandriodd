@@ -1,13 +1,17 @@
 <!-- Presentation -->
+
+<!--
+<img src="https://media1.giphy.com/media/hRBZptDO0ClD72QnJ1/giphy.gif?cid=6c09b9523qppqml4l4l4hgulcczywfh47uv7j26ujjqvl52x&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="150px">
+-->
+
 <div align="center">
 
-<img align="center" src="https://orhun.dev/img/crow.png" />
+<img src="https://media1.giphy.com/media/hRBZptDO0ClD72QnJ1/giphy.gif?cid=6c09b9523qppqml4l4l4hgulcczywfh47uv7j26ujjqvl52x&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="150px">
 
 </div>
   
 <h1 align="center">
-<samp>&gt; Hey There!, I am
-<b><a target="_blank" href="https://github.com/vandriodd">Luz Saavedra</a>🐝</b>
+<samp>&gt; Hey There!, I am <b><a target="_blank" href="https://github.com/vandriodd">Luz Saavedra</a></b>
 </samp>
 </h1>
 
