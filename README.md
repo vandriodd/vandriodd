@@ -19,7 +19,7 @@
 
 <p align="center">
 <samp>
-「 I'm a full-stack engineer student from <b>Uruguay</b> 」
+「 I'm a full-stack developer student from <b>Uruguay</b> 」
 <br>
 「 Focused on learning and improving my tech and soft skills</b> 」
 <br>
