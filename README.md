@@ -21,7 +21,7 @@
 <samp>
 「 I'm a full-stack developer student from <b>Uruguay</b> 」
 <br>
-「 Focused on learning and improving my tech and soft skills</b> 」
+「 Focused on learning and improving my <b>tech and soft skills</b> 」
 <br>
 <br>
 </samp>
