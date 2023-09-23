@@ -11,7 +11,7 @@
 </div>
   
 <h1 align="center">
-<samp>Hey There!, I am <b><a target="_blank" href="https://github.com/vandriodd">Luz Saavedra</a></b>
+<samp>Hey There!, I am <b>Luz Saavedra</b>
 </samp>
 </h1>
 
