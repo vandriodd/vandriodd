@@ -1,25 +1,17 @@
 <!-- Presentation -->
-
-<!--
-<img src="https://media1.giphy.com/media/hRBZptDO0ClD72QnJ1/giphy.gif?cid=6c09b9523qppqml4l4l4hgulcczywfh47uv7j26ujjqvl52x&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="150px">
--->
-
-<div align="center">
-
-<img src="https://media1.giphy.com/media/hRBZptDO0ClD72QnJ1/giphy.gif?cid=6c09b9523qppqml4l4l4hgulcczywfh47uv7j26ujjqvl52x&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="150px">
-
-</div>
-  
 <h1 align="center">
-<samp>Hey There!, I am <b>Luz Saavedra</b>
-</samp>
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eo_circle_deep-purple_heart.svg/2048px-Eo_circle_deep-purple_heart.svg.png" width="150px" />
+  <br>
+  𝐇𝐞𝐲, &lt;𝚝𝚑𝚎𝚛𝚎/&gt; !
+  <br>
 </h1>
 
 <br>
 
 <p align="center">
 <samp>
-I'm a full-stack developer student from <b>Uruguay</b>
+I'm Luz, a full-stack developer student from <b>Uruguay</b>
 <br>
 Focused on learning and improving my <b>tech and soft skills</b>
 <br>
