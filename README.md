@@ -75,5 +75,4 @@ Focused on learning and improving my <b>tech and soft skills</b>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandriodd&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vandriodd&theme=midnight-purple&hide_border=true&background=00000000" />
 </p>
-
 </a>
