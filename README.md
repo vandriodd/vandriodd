@@ -1,39 +1,35 @@
 <!-- Presentation -->
 <h1 align="center">
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eo_circle_deep-purple_heart.svg/2048px-Eo_circle_deep-purple_heart.svg.png" width="150px" />
-  <br>
-  𝐇𝐞𝐲, &lt;𝚝𝚑𝚎𝚛𝚎/&gt; !
-  <br>
+  <br />
+  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/af301a06-24a4-499e-9aaa-a3f4b3e42ea6" alt="Pig" />
+  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/601e43ae-3dea-4fae-94aa-71dfb32e31fe" alt="Bee" />
+  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/039e4d74-fb73-49d2-8cc0-a1f9a0f15934" alt="Cow" />
+  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/16e5eab4-c75f-4648-a651-5e61b7cbb5bf" alt="Unicorn" />
+  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/d58eda81-46fa-4402-a773-10f5ab057510" alt="Cactus" />
+  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/1ffb58a3-d5a3-415b-bc41-c9dc9032740c" alt="Tiger" />
+  <br />
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=7FC5DC&center=true&vCenter=true&random=false&width=435&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%B2%2C+%3C%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E%2F%3E+!" alt="Typing SVG" />
+  </a>
+  <br />
 </h1>
 
-<br>
+<br />
 
 <p align="center">
-<samp>
-I'm Luz, a full-stack developer student from <b>Uruguay</b>
-<br>
-Focused on learning and improving my <b>tech and soft skills</b>
-<br>
-<br>
-</samp>
+  I'm Luz, a Junior Frontend Developer. Passionate about design (UX/UI) and self-taught explorer in the realm of DevOps.
+<br />
+  Always excited to learn and grow in the development world. <b>Welcome to my code corner!</b>
+<br />
+<br />
 </p>
 
-<!-- Social media -->
-<h3 align="center"> <samp> 📫 How to reach me: </samp> </h3>
-
-<div align="center">
-
-&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:luzsaavedradri03@gmail.com)
-&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ludasaadi/)
-&ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/vandri_odd/)
-
-</div>
-
 <!-- Skills -->
-<h3 align="center"> <samp> 💻 Tech & tools stack: </samp> </h3>
-
 <div align="center">
+<img height="25" src="https://github.com/vandriodd/vandriodd/assets/110431271/7f900266-783b-4335-bc2b-7536bab93f92" alt="Tech and tools stack" />
+<br />
+<br />
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -55,10 +51,13 @@ Focused on learning and improving my <b>tech and soft skills</b>
 
 </div>
 
-<!-- Learning -->
-<h3 align="center"> <samp> 🌱 I'm currently learning: </samp> </h3>
+<br />
 
+<!-- Learning -->
 <div align="center">
+<img height="30" src="https://github.com/vandriodd/vandriodd/assets/110431271/b762c6a9-e2c9-4927-949b-591f2596e5e1" alt="Currently learning" />
+<br />
+<br />
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -67,12 +66,26 @@ Focused on learning and improving my <b>tech and soft skills</b>
 
 </div>
 
+<br />
+
+<!-- Social media -->
+<div align="center">
+<img height="25" src="https://github.com/vandriodd/vandriodd/assets/110431271/05042a07-5bcb-4286-be1c-922f87507343" alt="Get in touch" />
+<br />
+<br />
+
+&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ludasaadi/)
+&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:luzsaavedradri03@gmail.com)
+&ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/vandri_odd/)
+
+</div>
+
 <!-- Stats -->
-<h2 align="center"> <samp> 📊 GitHub Stats: </samp> </h2>
+<hr />
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vandriodd&&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandriodd&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vandriodd&theme=midnight-purple&hide_border=true&background=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=vandriodd&&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandriodd&theme=react&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vandriodd&theme=react&hide_border=true&background=00000000" />
 </p>
 </a>
