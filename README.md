@@ -15,8 +15,6 @@
   <br />
 </h1>
 
-<br />
-
 <p align="center">
   I'm Luz, a Junior Frontend Developer. Passionate about design (UX/UI) and self-taught explorer in the realm of DevOps.
 <br />
@@ -82,7 +80,6 @@
 
 <!-- Stats -->
 <hr />
-<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vandriodd&&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=00000000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandriodd&theme=react&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
