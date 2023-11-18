@@ -1,18 +1,18 @@
 <!-- Presentation -->
 <h1 align="center">
-  <br />
-  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/af301a06-24a4-499e-9aaa-a3f4b3e42ea6" alt="Pig" />
-  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/601e43ae-3dea-4fae-94aa-71dfb32e31fe" alt="Bee" />
-  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/039e4d74-fb73-49d2-8cc0-a1f9a0f15934" alt="Cow" />
-  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/16e5eab4-c75f-4648-a651-5e61b7cbb5bf" alt="Unicorn" />
-  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/d58eda81-46fa-4402-a773-10f5ab057510" alt="Cactus" />
-  <img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/1ffb58a3-d5a3-415b-bc41-c9dc9032740c" alt="Tiger" />
-  <br />
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=7FC5DC&center=true&vCenter=true&random=false&width=435&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%B2%2C+%3C%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E%2F%3E+!" alt="Typing SVG" />
-  </a>
-  <br />
+<br />
+<img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/af301a06-24a4-499e-9aaa-a3f4b3e42ea6" alt="Pig" />
+<img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/601e43ae-3dea-4fae-94aa-71dfb32e31fe" alt="Bee" />
+<img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/039e4d74-fb73-49d2-8cc0-a1f9a0f15934" alt="Cow" />
+<img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/16e5eab4-c75f-4648-a651-5e61b7cbb5bf" alt="Unicorn" />
+<img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/d58eda81-46fa-4402-a773-10f5ab057510" alt="Cactus" />
+<img width="40" src="https://github.com/vandriodd/vandriodd/assets/110431271/1ffb58a3-d5a3-415b-bc41-c9dc9032740c" alt="Tiger" />
+<br />
+<br />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=7FC5DC&center=true&vCenter=true&random=false&width=435&lines=%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%B2%2C+%3C%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%8E%2F%3E+!" alt="Typing SVG" />
+</a>
+<br />
 </h1>
 
 <p align="center">
