@@ -64,7 +64,6 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 </div>
-
 <br />
 
 <!-- Social media -->
