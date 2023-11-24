@@ -48,7 +48,6 @@
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 </div>
-
 <br />
 
 <!-- Learning -->
