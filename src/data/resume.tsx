@@ -69,7 +69,7 @@ export const DATA = {
         url: "https://www.behance.net/moon128",
         icon: Icons.behance,
 
-        navbar: true,
+        navbar: false,
       },
       email: {
         name: "Email",
@@ -124,13 +124,13 @@ export const DATA = {
       technologies: ["Astro", "Typescript", "TailwindCSS", "DaisyUI"],
       links: [
         {
-          type: "Coming soon",
-          href: "",
+          type: "Website (demo)",
+          href: "https://main.d2onzi7tsyhps1.amplifyapp.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
-      video: "/coming-soon.mp4",
+      image: "/aws-mockup.png",
+      video: "",
     },
     {
       title: "Ideas en el Aire",

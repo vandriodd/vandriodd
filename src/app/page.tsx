@@ -164,11 +164,14 @@ export default function Page() {
                   I like design things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Here you&apos;ll find a collection of my design work,
+                  Here you&apos;ll find a selection of my design work,
                   showcasing my journey from early illustrations to UX/UI
                   projects. Each piece reflects my passion for creativity and
-                  user experience. Feel free to explore the designs and access
-                  Figma files for a closer look!
+                  making things enjoyable for people to use. Feel free to
+                  explore the designs, and if you&apos;d like to dive deeper,
+                  <Link href="/blog" className="text-blue-500 hover:underline">
+                    you can check them out on my blog!
+                  </Link>
                 </p>
               </div>
             </div>
