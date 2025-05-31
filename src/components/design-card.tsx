@@ -5,12 +5,12 @@ import Link from "next/link";
 interface Props {
   title: string;
   description: string;
-  dates: string;
+  dates?: string;
   image?: string;
   links?: readonly {
-    icon: React.ReactNode;
-    title: string;
-    href: string;
+    icon?: React.ReactNode;
+    title?: string;
+    href?: string;
   }[];
 }
 
@@ -37,7 +37,7 @@ export function DesignCard({ title, description, dates, image, links }: Props) {
       {links && links.length > 0 && (
         <div className="mt-2 flex flex-row flex-wrap items-start gap-2">
           {links?.map((link, idx) => (
-            <Link href={link.href} key={idx}>
+            <Link href={link.href ?? "#"} key={idx}>
               <Badge key={idx} title={link.title} className="flex gap-2">
                 {link.icon}
                 {link.title}
