@@ -168,7 +168,8 @@ export default function Page() {
                   showcasing my journey from early illustrations to UX/UI
                   projects. Each piece reflects my passion for creativity and
                   making things enjoyable for people to use. Feel free to
-                  explore the designs, and if you&apos;d like to dive deeper,
+                  explore the designs, and if you&apos;d like to dive
+                  deeper,&nbsp;
                   <Link href="/blog" className="text-blue-500 hover:underline">
                     you can check them out on my blog!
                   </Link>

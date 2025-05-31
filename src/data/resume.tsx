@@ -8,20 +8,22 @@ export const DATA = {
   location: "Salinas, Canelones, Uruguay",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Creative Frontend Developer & UX/UI Designer. Passionate about crafting beautiful, user-centered digital experiences.",
+    "Creative Software Engineer & UX/UI Designer. Passionate about crafting beautiful, user-centered digital experiences.",
   summary:
-    "Since 2022, I've been diving deeply into technology after years of focusing primarily on design. I studied web development through Jóvenes a Programar and computer science at Holberton School. Currently, [I volunteer with an AWS organization](#experience), applying my skills in design and programming. My passion for design started early, participating in illustration events and creative workshops. As a freelancer, I now combine creativity and code to craft user-centered digital experiences.",
+    "I'm a developer who comes from a design background and really enjoys both coding and creating user-friendly experiences. I've learned web development and UX/UI along the way, so I'm comfortable mixing creativity with code to build things that work well and feel intuitive. I like keeping things practical and focused on what users actually need.",
   avatarUrl: "/me.png",
   skills: [
     "HTML",
     "CSS",
     "Javascript",
     "Typescript",
+    "Node.js",
+    "SQL",
+    "Express.js",
     "React",
     "Next.js",
     "Svelte",
     "Astro",
-    "Node.js",
     "Python",
     "Docker",
     "Figma",
@@ -34,7 +36,7 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "ludasaadi@gmail.com",
+    email: "hello@luliluz.com",
     tel: "+59895078575",
     social: {
       GitHub: {
@@ -73,7 +75,7 @@ export const DATA = {
       },
       email: {
         name: "Email",
-        url: "mailto:ludasaadi@gmail.com",
+        url: "mailto:hello@luliluz.com",
         icon: Icons.email,
 
         navbar: true,
@@ -83,6 +85,30 @@ export const DATA = {
 
   experience: [
     {
+      company: "DGamerStudio LLC",
+      href: "https://dgamer.studio/",
+      badges: [],
+      location: "Hybrid",
+      title: "Frontend Developer ingame UI",
+      logoUrl: "/dgamerstudio.png",
+      start: "Apr 2025",
+      end: "Present",
+      description:
+        "Currently focused on developing in-game user interfaces using React and Cohtml. Collaborating with designers and developers to redesign the game's UI, enhancing both visual quality and player experience.",
+    },
+    {
+      company: "DGamerStudio LLC",
+      href: "https://dgamer.studio/",
+      badges: [],
+      location: "Hybrid",
+      title: "Frontend Developer CMS",
+      logoUrl: "/dgamerstudio.png",
+      start: "Dec 2024",
+      end: "Apr 2025",
+      description:
+        "Worked on the internal CMS of the product, building admin interfaces with React. I collaborated with a backend team to create UX/UI prototypes in Figma to support new features.",
+    },
+    {
       company: "AWS Girls User Group",
       href: "",
       badges: [],
@@ -90,14 +116,14 @@ export const DATA = {
       title: "Grapich Designer | Frontend Developer",
       logoUrl: "/awsgirls.png",
       start: "Jun 2024",
-      end: "Present",
+      end: "Jan 2025",
       description:
-        "As a Graphic Designer & Frontend Developer, I've led the branding and visual design for AWS Girls User Group Uruguay. This includes creating promotional content for Instagram and LinkedIn, developing the landing page using modern web technologies, and ensuring cohesive branding across all platforms.",
+        "I've led the branding and visual design for AWS Girls User Group Uruguay. This includes creating promotional content for Instagram and LinkedIn, developing the landing page using modern web technologies, and ensuring cohesive branding across all platforms.",
     },
   ],
   education: [
     {
-      school: "Holberton School",
+      school: "Holberton School Uruguay",
       href: "https://holbertonschool.uy/",
       degree: "Foundations in Computer Science",
       logoUrl: "/holberton.png",
@@ -105,7 +131,7 @@ export const DATA = {
       end: "Nov 2023",
     },
     {
-      school: "Jóvenes A Programar",
+      school: "Jovenes a Programar",
       href: "https://jovenesaprogramar.edu.uy/",
       degree: "Foundations in Computer Science & Web Development",
       logoUrl: "/jap.png",
@@ -115,12 +141,50 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "AWS Girls User Group Uruguay",
-      href: "#",
-      dates: "Sep 2024",
+      title: "MCobro",
+      href: "https://mcobro.vercel.app/",
       active: true,
       description:
-        "Designed and developed the website and branding for AWS Girls User Group Uruguay, a community focused on creating an inclusive space for women and individuals in cloud technology, particularly AWS.",
+        "Website for Uruguayan medical professionals, designed as a financial tool. Includes a smart agenda to schedule work and auto-generate invoices based on user-defined rates.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Node.js",
+        "TailwindCSS",
+        "Drizzle",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://mcobro.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/mcobro-mockup.png",
+      video: "",
+    },
+    {
+      title: "Linkly",
+      href: "https://links.nachop.dev/",
+      active: true,
+      description:
+        "Linkly is a URL shortener that allows users to create custom links for their websites. It provides a simple and intuitive interface for users to create and manage their links, and it also includes a dashboard to track the performance of their links.",
+      technologies: ["Svelte", "Typescript", "TailwindCSS"],
+      links: [
+        {
+          type: "Website",
+          href: "https://links.nachop.dev/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/linkly-mockup.png",
+    },
+    {
+      title: "AWS Girls User Group Uruguay",
+      href: "https://main.d2onzi7tsyhps1.amplifyapp.com/",
+      active: true,
+      description:
+        "Website for AWS Girls User Group Uruguay, a community that creates an inclusive space for women in cloud tech. Focused on AWS, it fosters learning, networking, and collaboration through events and shared experiences.",
       technologies: ["Astro", "Typescript", "TailwindCSS", "DaisyUI"],
       links: [
         {
@@ -135,10 +199,9 @@ export const DATA = {
     {
       title: "Ideas en el Aire",
       href: "https://ideas-en-el-aire.vercel.app/",
-      dates: "Jan 2024 - Mar 2024",
       active: true,
       description:
-        "Designed and developed the website and branding for Ideas en el Aire, an independent Argentine radio station.",
+        "Website for Ideas en el Aire, an independent Argentine radio station that connects the community by sharing diverse voices and content. You can listen live, browse shows, and check the weekly schedule.",
       technologies: ["Next.js", "Javascript", "TailwindCSS", "DaisyUI"],
       links: [
         {
@@ -158,10 +221,9 @@ export const DATA = {
     {
       title: "PasturApp",
       href: "https://pasturapp.netlify.app/",
-      dates: "Sep 2023 - Nov 2023",
       active: true,
       description:
-        "Designed and developed the website for PasturApp, a self-management tool that enhances efficiency in Uruguayan dairy systems. The app supports both advisors and producers in decision-making by analyzing the data entered",
+        "PasturApp is a self-management tool that improves efficiency in Uruguayan dairy systems, helping advisors and producers make informed decisions through data analysis.",
       technologies: [
         "Svelte",
         "Javascript",
@@ -192,20 +254,40 @@ export const DATA = {
   ],
   designs: [
     {
-      title: "ConectArt",
+      title: "MCobro",
       dates: "Aug 6th, 2024 - Present",
       description:
-        "Designed the visual identity for ConectArt, including the logo, color palette, and brand tone. Created the branding briefing and am developing the landing page. Focused on crafting a cohesive and engaging brand experience.",
-      image: "/conectart.png",
-      links: [],
+        "Led the visual identity for MCobro, including logo design, color palette, and brand tone. Authored the branding brief and developed features for the app. My role spans from UI/UX design to front-end development, ensuring a cohesive and engaging brand and product experience.",
+      image: "/mcobro-logo.png",
+      links: [
+        {
+          type: "Website",
+          href: "https://mcobro.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
     },
+    // {
+    //   title: "ConectArt",
+    //   dates: "Aug 6th, 2024 - Present",
+    //   description:
+    //     "Designed the visual identity for ConectArt, including the logo, color palette, and brand tone. Created the branding briefing and am developing the landing page. Focused on crafting a cohesive and engaging brand experience.",
+    //   image: "/conectart.png",
+    //   links: [],
+    // },
     {
       title: "AWS Girls User Group Uruguay",
-      dates: "Jun 25th, 2024 - Present",
+      dates: "Jun 25th, 2024 - Jan 15th, 2025",
       description:
-        "Designed the visual identity for ConectArt, including the logo, color palette, and brand tone. Created the branding briefing and am developing the landing page. Focused on crafting a cohesive and engaging brand experience.",
+        "Designed the visual identity for AWS Girls User Group Uruguay, including color palette and brand tone. Created the promotional content for social media and business cards.",
       image: "/awsgirls.png",
-      links: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://main.d2onzi7tsyhps1.amplifyapp.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
     },
     {
       title: "Promotional Webpage",
@@ -213,7 +295,13 @@ export const DATA = {
       description:
         "Designed the interface for a promotional webpage showcasing a VSCode theme and an accompanying npm package for theme generation. Focused on creating an engaging and visually appealing experience to highlight the product features.",
       image: "/nachop.png",
-      links: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://vs-theme-builder.nachop.dev/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
     },
     {
       title: "Linkly",
@@ -221,7 +309,27 @@ export const DATA = {
       description:
         "Designed the sitemap, user flow, and interface for Linkly, focusing on creating an intuitive and user-friendly experience.",
       image: "/nachop.png",
-      links: [],
+      links: [
+        {
+          type: "Website",
+          href: "https://links.nachop.dev/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+    },
+    {
+      title: "Personal Brand for Nacho",
+      dates: "Jun 21st - Jun 23rd, 2024",
+      description:
+        "Designed a clean and modern personal brand identity, including logo, color palette, and visual elements to reflect Nacho's professional style and personality.",
+      image: "/nachop.png",
+      links: [
+        {
+          type: "Website",
+          href: "https://www.nachop.dev",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
     },
   ],
 } as const;
