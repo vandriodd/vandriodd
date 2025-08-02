@@ -141,6 +141,28 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Y-Axis",
+      href: "https://y-axis-five.vercel.app/",
+      active: true,
+      description:
+        "Y-Axis Customer Portal is a web application designed to optimize the experience of purchasing eyewear for resellers. It provides a seamless interface for managing orders and tracking shipments.",
+      technologies: ["React", "Typescript", "Shadcn", "TailwindCSS"],
+      links: [
+        {
+          type: "Website",
+          href: "https://y-axis-five.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/vandriodd/y-axis",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/y-axis-mockup.png",
+      video: "",
+    },
+    {
       title: "MCobro",
       href: "https://mcobro.vercel.app/",
       active: true,
@@ -253,6 +275,25 @@ export const DATA = {
     },
   ],
   designs: [
+    {
+      title: "Y-Axis",
+      dates: "Aug 6th, 2024 - Present",
+      description:
+        "Designed the visual identity for Y-Axis, including logo, color palette, and brand tone. Developed the user interface for the customer portal, focusing on enhancing user experience and visual appeal.",
+      image: "/y-axis-logo.png",
+      links: [
+        {
+          type: "Design",
+          href: "https://www.figma.com/design/0dmcApoKRGtnJ2LbF5XSJK/Customer-Portal-for-Y-Axis?node-id=15-126&t=Nusm6LFgWK3CMthV-1",
+          icon: <Icons.figma className="size-3" />,
+        },
+        {
+          type: "Website",
+          href: "https://y-axis-five.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+    },
     {
       title: "MCobro",
       dates: "Aug 6th, 2024 - Present",
