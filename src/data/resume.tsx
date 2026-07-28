@@ -85,6 +85,18 @@ export const DATA = {
 
   experience: [
     {
+      company: "Rogers Capital",
+      href: "https://rogerscapital.mu/",
+      badges: [],
+      location: "Hybrid",
+      title: "Software Developer",
+      logoUrl: "/rogers-capital-logo.png",
+      start: "Sept 2025",
+      end: "Present",
+      description:
+        "I contribute to multiple B2B projects, working on both frontend and backend development based on project requirements. I collaborate with developers, UX designers, Business Analysts, QA engineers, and clients to deliver reliable software and improve existing solutions.",
+    },
+    {
       company: "DGamerStudio LLC",
       href: "https://dgamer.studio/",
       badges: [],
@@ -92,9 +104,9 @@ export const DATA = {
       title: "Frontend Developer ingame UI",
       logoUrl: "/dgamerstudio.png",
       start: "Apr 2025",
-      end: "Present",
+      end: "Jul 2025",
       description:
-        "Currently focused on developing in-game user interfaces using React and Cohtml. Collaborating with designers and developers to redesign the game's UI, enhancing both visual quality and player experience.",
+        "Worked on developing in-game user interfaces using React and Cohtml. Collaborated with designers and developers to redesign the game's UI, improving both visual quality and player experience.",
     },
     {
       company: "DGamerStudio LLC",
@@ -308,14 +320,6 @@ export const DATA = {
         },
       ],
     },
-    // {
-    //   title: "ConectArt",
-    //   dates: "Aug 6th, 2024 - Present",
-    //   description:
-    //     "Designed the visual identity for ConectArt, including the logo, color palette, and brand tone. Created the branding briefing and am developing the landing page. Focused on crafting a cohesive and engaging brand experience.",
-    //   image: "/conectart.png",
-    //   links: [],
-    // },
     {
       title: "AWS Girls User Group Uruguay",
       dates: "Jun 25th, 2024 - Jan 15th, 2025",
